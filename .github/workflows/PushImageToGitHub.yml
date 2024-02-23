@@ -20,4 +20,4 @@ jobs:
         with:
           context: DockerFileFolder/
           push: true
-          tags: rekhugopal/testrepo:latest
+          tags: arifulislamcse2023/newproject:latest
